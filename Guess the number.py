@@ -26,9 +26,3 @@ if guess == rand_num:
 
 else:
     print("Out of guesses!")
-
-
-
-
-
-
